@@ -9,3 +9,6 @@ To learn more about Hexagonal Architecture :
 - [Développer en NodeJS avec l'Architecture Hexagonale](https://youtu.be/VMgFozpPSkM)
 - [Architecture Hexagonale Level 2: Comment bien écrire ses tests!](https://youtu.be/v--zkIEciq4)
 - [Architecturoplastie hexagonale d’un backend Node.js](https://youtu.be/r2XMwAUqZBA)
+
+### Source: 
+https://www.youtube.com/watch?v=3siPsq17NAU
